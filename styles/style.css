@@ -196,8 +196,9 @@ header{
 .h-d-text-p{
    color: rgba(39, 39, 39, 0.6);
    font-size: 16px;
-   margin: 30px 0;
+   margin-top: 20px;
 }
+
 
 .h-d-btn{
    background-color: #E55473;
@@ -205,7 +206,7 @@ header{
    font-size: 15x;
    font-family: "Lato", sans-serif;
    font-weight: bold;
-   padding: 15px 30px;
+   margin: 30px 0;padding: 15px 30px;
    border: none;
    border-radius: 8px;
 }
@@ -251,5 +252,93 @@ header{
     width: 310px;
 }
 
+
+
+
+/* Css of Form Section */
+.form{
+    background-image: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    max-width: 1340px;
+    margin: 0 auto 120px;
+    padding: 120px 50px;
+}
+
+.form-text{
+    font-family: "Lato", sans-serif;
+    text-align: center;
+}
+
+.form-h1{
+    color: rgba(39, 39, 39, 1);
+    font-size: 35px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.form-p{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 15px;
+}
+
+.form-input{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form-input input[type="email"]{
+    width: 700px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+.f-i-btn{
+    background-color: #E55473;
+    color: white;
+    font-size: 15px;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+}
+
+
+
+
+/* Css of footer part */
+.footer{
+    background-color: #111010;
+    text-align: center;
+    padding: 120px 0;
+    max-width: 1540px;
+}
+
+.footer-text{
+    font-family: "Lato", sans-serif;
+}
+
+.footer-h1{
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.shop-color{
+    color: white;
+}
+
+.footer-p1{
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    margin: 25px 0;
+}
+
+.footer-p2{
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 16px;
+}
 
 
