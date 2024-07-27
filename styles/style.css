@@ -2,11 +2,16 @@
 
 /* font-family: "Lato", sans-serif; */
 
+
+
+
 /* Starting The Project */
 *{
     margin: 0;
     padding: 0;
 }
+
+
 
 
 /* Css of header part */
@@ -46,6 +51,7 @@ header{
     border-radius: 8px;
     border: none;
 }
+
 
 
 
@@ -159,6 +165,60 @@ header{
     font-weight: 600;
     margin-top: 20px;
 }
+
+
+
+
+/* Css of Hot Deal Section */
+.hot-deal{
+    background-color: rgba(229, 84, 115, 0.05);
+    padding: 100px 200px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.h-d-text{
+    font-family: "Lato", sans-serif;
+    width: 47%;
+    margin-right: 170px;
+    text-align: center;
+}
+
+.h-d-text-h3{
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.off-color{
+    color: #FE5547;
+}
+
+.h-d-text-p{
+   color: rgba(39, 39, 39, 0.6);
+   font-size: 16px;
+   margin: 30px 0;
+}
+
+.h-d-btn{
+   background-color: #E55473;
+   color: white;
+   font-size: 15x;
+   font-family: "Lato", sans-serif;;
+   font-weight: bold;
+   padding: 15px 30px;
+   border: none;
+   border-radius: 8px;
+}
+
+.h-d-img{
+    width: 35%;
+}
+
+
+
+
+/* Css of Instagram Section */
 
 
 
