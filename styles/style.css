@@ -46,3 +46,98 @@ header{
     border-radius: 8px;
     border: none;
 }
+
+
+
+/* Css of Featured Flowers */
+.fea-flower{
+    max-width: 1440px;
+    text-align: center;
+    margin:  180px auto 0;
+}
+
+.f-f-text{
+    font-family: "Lato", sans-serif;
+    margin-bottom: 48px;
+}
+
+.f-f-text-h3{
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.f-f-text-p{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 20px;
+}
+
+.f-f-img-container{
+    display: flex;
+    gap: 15px;
+    margin-top: 50px;   
+}
+
+.f-f-img1{
+    width: 464px;
+    height: 530px;
+    border-radius: 50% 50% 0 0;
+}
+
+.f-f-img2{
+    width: 464px;
+    height: 530px;
+    border-radius: 50% 50% 0 0;
+}
+
+.f-f-img3{
+    width: 464px;
+    height: 530px;
+    border-radius: 50% 50% 0 0;
+}
+
+.img1{
+    height: 420px;
+    width: 316px;
+    margin-top: 110px;
+}
+
+.img2{
+    height: 370px;
+    width: 370px;
+    margin-top: 100px;
+}
+
+.img3{
+    height: 470px;
+    width: 314px;
+    margin-top: 60px;
+}
+
+.ff-1{
+    background-color: rgba(167, 33, 98, 0.15);
+}
+
+.ff-2{
+    background-color: rgba(5, 151, 160, 0.15);
+}
+
+.ff-3{
+    background-color: rgba(71, 125, 17, 0.15);
+}
+
+.f-e-t{
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 32px;
+}
+
+
+
+
+/* Css of cartoon section */
+
+
+
