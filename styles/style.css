@@ -175,7 +175,6 @@ header{
     padding: 100px 200px;
     display: flex;
     align-items: center;
-    margin-bottom: 120px;
 }
 
 .h-d-text{
@@ -204,7 +203,7 @@ header{
    background-color: #E55473;
    color: white;
    font-size: 15x;
-   font-family: "Lato", sans-serif;;
+   font-family: "Lato", sans-serif;
    font-weight: bold;
    padding: 15px 30px;
    border: none;
@@ -219,7 +218,38 @@ header{
 
 
 /* Css of Instagram Section */
+.instagram{
+    max-width: 1340px;
+    margin: 128px auto;
+}
 
+.insta-text{
+    font-family: "Lato", sans-serif;
+    text-align: center;
+}
+
+.insta-text-h3{
+    color: #272727;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.insta-text-p{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    margin: 40px 0;
+}
+
+.insta-img-container{
+    max-width: 1240px;
+    margin: 0 auto;
+    display: flex;
+    gap: 10px; 
+}
+
+.insta-img{
+    width: 310px;
+}
 
 
 
