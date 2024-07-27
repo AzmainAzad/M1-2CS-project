@@ -8,3 +8,41 @@
     padding: 0;
 }
 
+
+/* Css of header part */
+header{
+    background-color: rgba(229, 84, 115, 0.1);
+    padding: 20px 70px 0;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.header-text, .header-img{
+    width: 50%;
+}
+
+.header-text{
+    font-family: "Lato", sans-serif;
+}
+
+.h-t-h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.h-t-p{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    margin: 30px 0;
+}
+
+.h-t-btn{
+    background-color: #E55473;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 20px 30px;
+    border-radius: 8px;
+    border: none;
+}
